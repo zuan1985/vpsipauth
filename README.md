@@ -1,3 +1,3 @@
 # vpsipauth
 
-date -d +$30days +%Y-%m-%d
+date -d +30days +%Y-%m-%d
