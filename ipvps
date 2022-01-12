@@ -1,3 +1,5 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
 #& aws-v3 Lifetime 13.2xx.3x.xxx
+### sgx4 2022-02-06 159.89.195.7
+### sgx5 2022-02-06 159.223.88.0
