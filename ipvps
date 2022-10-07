@@ -1,6 +1,5 @@
 #& test-lifetime Lifetime 1.1.1.1
 ### test-expired 2022-01-07 8.8.8.8
 #& awal Lifetime 159.65.138.250
-#& a Lifetime 103.186.117.166
-#& b Lifetime 103.123.238.73
-#& a
+#& a Lifetime
+#& b Lifetime
